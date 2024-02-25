@@ -1,0 +1,12 @@
+$primary: #ffcc1d;
+$secondary: #0b4619;
+
+$theme-colors: (
+  "kuning": $primary,
+  "ijo ": $secondary,
+);
+
+$body-bg: #000;
+$body-color: #fff;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
